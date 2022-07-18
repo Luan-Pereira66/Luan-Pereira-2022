@@ -7,7 +7,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luan-Pereira-2022&theme=blue-green&hide_border=falso&locale=pt-br)](https://git.io/streak-stats)
 
-### Linguagens Favoritas
+### 𝐋𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐚𝐬 💬
 <p align="center">
 <a href="teste" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" target"_blank"></a>
 <a href="teste" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target"_blank"></a>
@@ -24,7 +24,7 @@
 <a href="teste" target="_blank"><img src="https://img.shields.io/badge/Typescript-E34F26?style=for-the-badge&logo=typescript&logoColor=white" target"_blank"></a>
 </p>
 
-### Blibliotecas e Estruturas
+### 𝐁𝐢𝐛𝐥𝐢𝐨𝐭𝐞𝐜𝐚𝐬 𝐄 𝐄𝐬𝐭𝐫𝐮𝐭𝐮𝐫𝐚𝐬 💚
 
 <p align="center">
 <a href="teste" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" target"_blank"></a>
@@ -37,7 +37,7 @@
 <a href="teste" target="_blank"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" target"_blank"></a>
 </p>
 
-### Banco De Dados e Hospedagens
+### 𝐁𝐚𝐧𝐜𝐨𝐬 𝐃𝐞 𝐃𝐚𝐝𝐨𝐬 𝐞 𝐇𝐨𝐬𝐩𝐞𝐝𝐚𝐠𝐞𝐧𝐬 💪
 <p align="center">
 <a href="teste" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target"_blank"></a>
 <a href="teste" target="_blank"><img src="https://img.shields.io/badge/Mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" target"_blank"></a>
