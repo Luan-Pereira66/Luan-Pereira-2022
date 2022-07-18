@@ -3,7 +3,7 @@
 <a href="teste" target="_blank"><img src="https://img.shields.io/badge/LuanPereira-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"></a>
 </p> 
 
-### Status
+### 𝐒𝐭𝐚𝐭𝐮𝐬 𝐆𝐢𝐭𝐡𝐮𝐛 🙆‍♂️
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luan-Pereira-2022&theme=blue-green&hide_border=falso&locale=pt-br)](https://git.io/streak-stats)
 
