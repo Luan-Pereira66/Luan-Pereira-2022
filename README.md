@@ -7,35 +7,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luan-Pereira-2022&theme=blue-green&hide_border=falso&locale=pt-br)](https://git.io/streak-stats)
 
-### 𝐋𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐚𝐬 💬
-<p align="center">
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/.Net-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Npm-25D366?style=for-the-badge&logo=npm&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Dart-E34F26?style=for-the-badge&logo=dart&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/SVG-e0982c?style=for-the-badge&logo=svg&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Typescript-E34F26?style=for-the-badge&logo=typescript&logoColor=white" target"_blank"></a>
-</p>
-
-### 𝐁𝐢𝐛𝐥𝐢𝐨𝐭𝐞𝐜𝐚𝐬 𝐄 𝐄𝐬𝐭𝐫𝐮𝐭𝐮𝐫𝐚𝐬 💚
-
-<p align="center">
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Flutter-404d59?style=for-the-badge&logo=flutter&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Sympy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" target"_blank"></a>
-<a href="teste" target="_blank"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" target"_blank"></a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Pereira-2022&show_icons=true&theme=radical)
 
 ### 𝐁𝐚𝐧𝐜𝐨𝐬 𝐃𝐞 𝐃𝐚𝐝𝐨𝐬 𝐞 𝐇𝐨𝐬𝐩𝐞𝐝𝐚𝐠𝐞𝐧𝐬 💪
 <p align="center">
