@@ -20,7 +20,7 @@
 <a href="teste" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target"_blank"></a>
 </p>
 
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
